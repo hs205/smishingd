@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69771932467",
+    "project_id": "smishingdetection-ef1ad",
+    "storage_bucket": "smishingdetection-ef1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69771932467:android:bc3789eda8b51fd29c0446",
+        "android_client_info": {
+          "package_name": "com.hassansapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlWsP9fNdKxLqOlTP3MYx5CXLQ-WpHQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
